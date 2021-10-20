@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 [![Daecheol's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheol7826&show_icons=true&theme=radical)](https://github.com/cheol7826)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cheol7826)](https://solved.ac/cheol7826/)
-
-
 ## - Technology Stack
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -33,8 +30,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>\
 </div>
 <br>
 <div align="center">
